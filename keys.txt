@@ -1,0 +1,10 @@
+aws_access_key_id: AKIASWNVYAX4CSVEF33B
+aws_secret_access_key: gjuyfut6fujvguriuktcvlyf
+
+aws_access_key_id: AKIASW23HGJF79FGJHJB
+aws_secret_access_key: 1346gqewd567erghnwrtusdv
+
+aws_access_key_id: AKIAGJYVCREF459KGDRE
+aws_secret_access_key: gwfghwrgtv245edfvbdnuvxs
+
+
